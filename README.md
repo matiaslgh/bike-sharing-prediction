@@ -6,15 +6,18 @@ Imagine yourself owning a bike sharing company. You want to protect how many bik
 So, to avoid those scenarios I've trained a neural network to predict from historical data how many bikes you'll need in the near future, taking in count dates, weather and type of riders.
 
 ## Project Overview
-The neural network has built in Python using numpy to assist and pandas for data preprocessing.
-The project re-uses the structure provided by the [udacity repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing) but the core methods were implemented by me.
-The idea of this projects is to understand better how gradient descent, backpropagation, and other important concepts of neural networks work before starting with tools like Tensorflow or Pytorch.
+The neural network has been built in Python using numpy to assist and pandas for data preprocessing.
+The project re-uses the structure provided by the [udacity repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing) but the core methods were implemented by me and the hyperparameters were chosen by me too.
+The idea of this project is to understand better how gradient descent, backpropagation, and other important concepts of neural networks work before starting with tools like Tensorflow or Pytorch.
 
 ## Run notebook
 With Anaconda you can run the commands below to install the dependencies in a virtual environent:
 > conda create -n "bike-sharing" python=3
+
 > activate bike-sharing
+
 > source activate bike-sharing
+
 > conda install numpy pandas jupyter notebook
 
 And then just:
