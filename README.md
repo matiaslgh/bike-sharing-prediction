@@ -24,4 +24,5 @@ And then just:
 > jupyter notebook
 
 To dive into details, look at [Predicting_bike_sharing_data.ipynb](https://github.com/matiaslgh/bike-sharing-prediction/blob/master/Predicting_bike_sharing_data.ipynb)
+
 To see the methods to build the NN, look at [my_answers.py](https://github.com/matiaslgh/bike-sharing-prediction/blob/master/my_answers.py)
